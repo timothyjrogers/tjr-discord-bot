@@ -1,0 +1,12 @@
+{
+    "name": "tjr-discord-bot",
+    "version": "0.0.1",
+    "description": "Discord chat bot",
+    "main": "bot.js",
+    "author": "Tim Rogers",
+    "dependencies": {
+            "winston": "*",
+            "discord.js": "*"
+    }
+}
+    
